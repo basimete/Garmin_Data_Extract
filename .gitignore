@@ -1,0 +1,12 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables / credentials
+.env
+credentials.py
+.venv/
+
+# Ignore the data 
+my_garmin_gpx/
+*.csv
