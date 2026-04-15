@@ -1,0 +1,7 @@
+Project Folder: Created a dedicated workspace for the Garmin data project.
+Virtual Environment (.venv): Set up a separate Python environment to keep this project's tools isolated from my computer's main settings.
+Library Installation: Installed the garminconnect package to allow Python to communicate with Garmin’s servers.
+Requirements List: Generated a requirements.txt file to record every library used, ensuring the project can be rebuilt easily on any machine.
+Git Integration: Initialized a Git repository and linked it to GitHub for version control and cloud backup.
+Git Ignore: Configured a .gitignore file to protect sensitive information and prevent unnecessary system files from being uploaded.
+Learning: Learned about the garminconnect package using Pypi https://pypi.org/project/garminconnect/

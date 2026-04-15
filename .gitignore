@@ -9,4 +9,5 @@ credentials.py
 
 # Ignore the data 
 my_garmin_gpx/
+Garmin_Download/
 *.csv
